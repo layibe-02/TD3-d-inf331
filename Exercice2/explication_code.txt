@@ -1,0 +1,3 @@
+La classe Point est la classe de base pour les points du plan. La classe Pointcol hérite de Point et ajoute un attribut couleur de type byte ainsi que deux méthodes colorer et afficheCol. La méthode colorer permet de changer la couleur du point et la méthode afficheCol affiche les coordonnées du point ainsi que sa couleur. Le constructeur de Pointcol permet de construire un objet Pointcol directement avec sa couleur.
+
+Le programme de test crée un objet Pointcol et teste les méthodes afficheCol et colorer.

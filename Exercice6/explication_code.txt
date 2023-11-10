@@ -1,0 +1,12 @@
+
+
+1) Pour transformer la classe abstraite Affichable en interface, il suffit de remplacer le mot-clé abstract 
+par interface dans la déclaration de la classe. La méthode affiche() doit être déclarée comme une méthode 
+publique et abstraite.
+
+2) Pour modifier les classes Entier et Flottant, il faut les faire implémenter l’interface Affichable et 
+redéfinir la méthode affiche() pour chaque classe.
+
+3) Pour écrire un programme de test, vous pouvez créer un tableau d’objets de type Affichable et y ajouter des 
+objets de type Entier et Flottant. Ensuite, vous pouvez parcourir le tableau et appeler la méthode affiche() 
+pour chaque objet.

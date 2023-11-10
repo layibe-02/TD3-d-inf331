@@ -1,0 +1,3 @@
+La classe Affichable est une classe abstraite qui définit une méthode affiche. La classe Entier et la classe Flottant héritent de Affichable et implémentent la méthode affiche pour afficher "Je suis un entier de valeur " suivi de la valeur de l’entier ou "Je suis un flottant de valeur " suivi de la valeur du flottant.
+
+Le programme de test crée un tableau d’objets de type Affichable contenant un objet Entier et un objet Flottant, puis parcourt le tableau et appelle la méthode affiche pour chaque élément.
